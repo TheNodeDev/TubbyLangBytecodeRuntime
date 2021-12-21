@@ -1,0 +1,15 @@
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/bin/Debug/net6.0/tlanngbruntime
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/bin/Debug/net6.0/tlanngbruntime.deps.json
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/bin/Debug/net6.0/tlanngbruntime.runtimeconfig.json
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/bin/Debug/net6.0/tlanngbruntime.dll
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/bin/Debug/net6.0/ref/tlanngbruntime.dll
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/bin/Debug/net6.0/tlanngbruntime.pdb
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/obj/Debug/net6.0/tlanngbruntime.csproj.AssemblyReference.cache
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/obj/Debug/net6.0/tlanngbruntime.GeneratedMSBuildEditorConfig.editorconfig
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/obj/Debug/net6.0/tlanngbruntime.AssemblyInfoInputs.cache
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/obj/Debug/net6.0/tlanngbruntime.AssemblyInfo.cs
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/obj/Debug/net6.0/tlanngbruntime.csproj.CoreCompileInputs.cache
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/obj/Debug/net6.0/tlanngbruntime.dll
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/obj/Debug/net6.0/ref/tlanngbruntime.dll
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/obj/Debug/net6.0/tlanngbruntime.pdb
+/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/obj/Debug/net6.0/tlanngbruntime.genruntimeconfig.cache

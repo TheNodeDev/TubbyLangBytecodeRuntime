@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DXigknKwW9V0cZ+7gWt3n8kQtQMScGAtvoaLoN7IcuyvvGjetjxD5Pz9l6DeJkLoQrs2hOZeNkVh2SLufLte+g==",
+  "success": true,
+  "projectFilePath": "/home/austenm/RiderProjects/tlangbruntime/tlanngbruntime/tlanngbruntime.csproj",
+  "expectedPackageFiles": [
+    "/home/austenm/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
